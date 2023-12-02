@@ -1,0 +1,3 @@
+[submodule "ProyectoMarinesFilms"]
+	path = ProyectoMarinesFilms
+	url = git@github.com:JohanaAvii/ProyectoMarinesFilms.git
